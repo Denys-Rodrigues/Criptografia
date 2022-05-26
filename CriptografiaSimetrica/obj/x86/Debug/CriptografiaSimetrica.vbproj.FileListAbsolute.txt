@@ -1,0 +1,24 @@
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.exe
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.pdb
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.xml
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.Form1.resources
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.Resources.resources
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.exe
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.xml
+C:\Users\f5361091\documents\visual studio 2010\Projects\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.pdb
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.exe.config
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.exe
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.pdb
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.xml
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.vbproj.AssemblyReference.cache
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.vbproj.SuggestedBindingRedirects.cache
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.Form1.resources
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.Resources.resources
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.vbproj.GenerateResource.cache
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.vbproj.CoreCompileInputs.cache
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.exe
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.xml
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.pdb

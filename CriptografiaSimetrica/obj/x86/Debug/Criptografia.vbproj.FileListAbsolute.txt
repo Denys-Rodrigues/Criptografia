@@ -1,0 +1,13 @@
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.exe.config
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.exe
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.pdb
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\bin\Debug\CriptografiaSimetrica.xml
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\Criptografia.vbproj.AssemblyReference.cache
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\Criptografia.vbproj.SuggestedBindingRedirects.cache
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.Form1.resources
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.Resources.resources
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\Criptografia.vbproj.GenerateResource.cache
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\Criptografia.vbproj.CoreCompileInputs.cache
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.exe
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.xml
+C:\Users\denys\Downloads\CriptografiaSimetrica\CriptografiaSimetrica\obj\x86\Debug\CriptografiaSimetrica.pdb
